@@ -1,0 +1,16 @@
+# hyden a0:
+- Added sprites folder\n\nWith low-res Emily graphic
+- Moved emily_skype to concept art.
+- Created README.md
+- Added TODO.md
+- Added things to TODO
+- Createdd base project in Unity
+- Edit TODO
+- Created PROJECT.md
+- Created .gitignore
+- Update .gitignore
+- Unity doing things.
+- [IGNORE] Unity doing more things.
+- Added scene
+- Update .gitignore
+- Set up buildbot
